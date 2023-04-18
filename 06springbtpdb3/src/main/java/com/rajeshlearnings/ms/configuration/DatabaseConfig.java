@@ -24,7 +24,7 @@ import com.rajeshlearnings.ms.entities.Vendor;
 //@Profile("cloud")
 public class DatabaseConfig extends AbstractCloudConfig {
 
-
+// Changes for Git tracking - Test logic
 	  /**
 	   * (Step 1) Parses the local environment variable VCAP_SERVICES (containing
 	   * cloud information) and provides a DataSource. The superclass
