@@ -1,0 +1,39 @@
+{
+    "companyName": "Girijan Dairy",
+    "contactPersion": "Rajesh",
+    "firstName": "Goutham",
+    "lastName": "Adhani",
+    "website": "girijandairy.com",
+    "email": "goutham@gj.com",
+    "status": "Active",
+    "regDate": "2023-03-30T13:07:00.883+00:00"
+}
+
+{
+    "companyName": "Hanuman",
+    "contactPersion": "Raj",
+    "firstName": "Adani",
+    "lastName": "Gates",
+    "website": "hanumancoldstorage.com",
+    "email": "adanigates@hcs.com",
+    "status": "Active",
+    "regDate": "2023-03-30T13:07:00.883+00:00",
+    
+    "adresses":[
+    {
+    "addressType":"H",
+    "street":"MG Road",
+    "city":"Bangalore",
+    "country":"India",
+    "region": "APJ"
+    },
+    
+     {
+    "addressType":"P",
+    "street":"Kadugodi",
+    "city":"Bangalore",
+    "country":"India",
+    "region": "APJ"
+    }   
+    ]
+}
